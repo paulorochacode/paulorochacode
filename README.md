@@ -26,6 +26,7 @@
   <img align="center" alt="GoogleColab" height="30" width="40" src="https://colab.research.google.com/img/colab_favicon_256px.png">
   <img align="center" alt="Postman" height="25" width="30" src="https://dashboard.snapcraft.io/site_media/appmedia/2018/11/logo-mark.png">
   <img align="center" alt="GoogleCloud" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
+  <img align="center" alt="GoogleCloud" height="30" width="40" src="https://coollogo.net/wp-content/uploads/2021/11/selenium.svg">
   
 </div>
   
