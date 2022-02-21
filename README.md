@@ -1,4 +1,4 @@
-## Hello, I'm Paulo, software QA, tester and Developer.
+## Hello, I'm Paulo, Software QA, Tester and Developer.
 <div align="center">
   <a href="https://github.com/paulotomax">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulotomax&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
