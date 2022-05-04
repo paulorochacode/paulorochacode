@@ -1,4 +1,5 @@
 <div align="center"><h2>Hello, I'm Paulo, Software QA, Tester and Developer.<h2></div>
+<div align="center"><h2>"Just tell me what you need".<h2></div>  
 <div align="center">
   <a href="https://github.com/paulorochacode">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulorochacode&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
