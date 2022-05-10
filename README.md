@@ -1,4 +1,4 @@
-<div align="center"><h2>Hello, I'm Paulo, Software QA and Developer.<h2></div>
+<div align="center"><h2>Hello, I'm Paulo, FullStack Developer.<h2></div>
 <div align="center"><h2>"Just tell me what you need".<h2></div>  
 <div align="center">
   <a href="https://github.com/paulorochacode">
