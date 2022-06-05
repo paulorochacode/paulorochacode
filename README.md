@@ -24,11 +24,11 @@
   <img align="center" alt="Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg">
-  <img align="center" alt="RestAssured" height="25" width="30" src="http://www.projectdebug.com/wp-content/uploads/2017/09/rest-assured_logo.png">
+  <img align="center" alt="RestAssured" height="25" width="30" src="https://github.com/paulorochacode/Github-profile-imgs/blob/master/Icons/rest-assured-icon.png?raw=true">
   <img align="center" alt="GoogleColab" height="30" width="40" src="https://colab.research.google.com/img/colab_favicon_256px.png">
   <img align="center" alt="Postman" height="25" width="30" src="https://dashboard.snapcraft.io/site_media/appmedia/2018/11/logo-mark.png">
   <img align="center" alt="GoogleCloud" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
-  <img align="center" alt="Selenium" height="30" width="40" src="https://coollogo.net/wp-content/uploads/2021/11/selenium.svg">
+  <img align="center" alt="Selenium" height="30" width="40" src="[https://coollogo.net/wp-content/uploads/2021/11/selenium.svg](https://github.com/paulorochacode/Github-profile-imgs/blob/master/Icons/Selenium-icon.png?raw=true)">
   <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg">
   <img align="center" alt="Jira" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png">
 </div><hr>
