@@ -24,7 +24,7 @@
   <img align="center" alt="Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg">
-  <img align="center" alt="RestAssured" height="25" width="30" src="https://github.com/paulorochacode/Github-profile-imgs/blob/master/Icons/rest-assured-icon.png?raw=true">
+  <img align="center" alt="RestAssured" height="25" width="32" src="https://github.com/paulorochacode/Github-profile-imgs/blob/master/Icons/rest-assured-icon.png?raw=true">
   <img align="center" alt="GoogleColab" height="30" width="40" src="https://colab.research.google.com/img/colab_favicon_256px.png">
   <img align="center" alt="Postman" height="25" width="30" src="https://dashboard.snapcraft.io/site_media/appmedia/2018/11/logo-mark.png">
   <img align="center" alt="GoogleCloud" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
