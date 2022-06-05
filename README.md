@@ -28,7 +28,7 @@
   <img align="center" alt="GoogleColab" height="30" width="40" src="https://colab.research.google.com/img/colab_favicon_256px.png">
   <img align="center" alt="Postman" height="25" width="30" src="https://dashboard.snapcraft.io/site_media/appmedia/2018/11/logo-mark.png">
   <img align="center" alt="GoogleCloud" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
-  <img align="center" alt="Selenium" height="27" width="100" src="https://raw.githubusercontent.com/paulorochacode/Github-profile-imgs/master/Icons/selenium-icon.png?token=GHSAT0AAAAAABVJDA3VBOZ3WNG5BIW7WYSUYU4GBZA">
+  <img align="center" alt="Selenium" height="30" width="40" src="https://raw.githubusercontent.com/paulorochacode/Github-profile-imgs/master/Icons/selenium-icon.png?token=GHSAT0AAAAAABVJDA3VBOZ3WNG5BIW7WYSUYU4GBZA">
   <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg">
   <img align="center" alt="Jira" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png">
 </div><hr>
