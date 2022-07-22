@@ -34,7 +34,7 @@
 </div><hr>
   <div>
   <a href="mailto:paulorochacode@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/paulo-ricardo-rocha-000aa9177/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?     style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/paulo-ricardo-rocha-000aa9177/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   <div align="center">
     <img align="center" alt="2022" height="246" width="905" src="https://github.com/paulorochacode/imgsCommitsProfile/blob/main/GithubContributions2022.png?raw=true">
