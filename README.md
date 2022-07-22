@@ -38,8 +38,8 @@
 </div></br>
   <div align="center">
     <img align="center" alt="2022" height="246" width="905" src="https://github.com/paulorochacode/imgsCommitsProfile/blob/main/GithubContributions2022.png?raw=true"></br>
-  <img align="center" alt="2022" height="246" width="905" src="https://github.com/paulorochacode/imgsCommitsProfile/blob/main/GithubContributions2021.png?raw=true"></br>
-  <img align="center" alt="2022" height="246" width="905" src="https://github.com/paulorochacode/imgsCommitsProfile/blob/main/GithubContributions2020.png?raw=true"></br>
-</div>
+    <img align="center" alt="2022" height="246" width="905" src="https://github.com/paulorochacode/imgsCommitsProfile/blob/main/GithubContributions2021.png?raw=true"></br>
+    <img align="center" alt="2022" height="246" width="905" src="https://github.com/paulorochacode/imgsCommitsProfile/blob/main/GithubContributions2020.png?raw=true"></br>
+  </div>
   
   
