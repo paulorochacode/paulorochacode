@@ -45,4 +45,3 @@
 </div>
   <img align="center" alt="2022" height="246" width="905" src="https://github.com/paulorochacode/imgsCommitsProfile/blob/main/GithubContributions2020.png?raw=true">
 </div>
-</div>
