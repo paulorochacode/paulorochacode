@@ -32,7 +32,7 @@
   <img align="center" alt="MongoDB" height="30" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg">
   <img align="center" alt="Jira" height="28" width="32" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png">
 </div><hr>
-  <div align="center">
+  <div>
   <a href = "mailto:paulorochacode@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/paulo-ricardo-rocha-000aa9177/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
