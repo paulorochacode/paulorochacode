@@ -32,7 +32,6 @@
   <img align="center" alt="MongoDB" height="30" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg">
   <img align="center" alt="Jira" height="28" width="32" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png">
 </div><hr>
-</div>
   
   ##
  
@@ -46,4 +45,4 @@
 </div>
   <img align="center" alt="2022" height="246" width="905" src="https://github.com/paulorochacode/imgsCommitsProfile/blob/main/GithubContributions2020.png?raw=true">
 </div>
-<div>
+</div>
