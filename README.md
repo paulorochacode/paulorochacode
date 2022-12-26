@@ -1,4 +1,4 @@
-<div align="center"><h2>Hello, I'm Paulo, FullStack Developer.</br> First commit: 21/09/2020, First line of code (Fanuc CNC) 2015.<h2></div>
+<div align="center"><h2>Hello, I'm Paulo, Fullstack developer.</br> First commit: 21/09/2020, first line of code (fanuc CNC) 2015.<h2></div>
 <div align="center"><h2>"Just tell me what you need".<h2></div>  
 <div align="center">
   <a href="https://github.com/paulorochacode">
