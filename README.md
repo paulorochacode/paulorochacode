@@ -34,7 +34,7 @@
   <img align="center" alt="GoogleCloud" height="30" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
   <br><br>
   
-  <img align="center" alt="RestAssured" height="25" width="34" src="https://github.com/paulorochacode/icons/blob/main/rest-assured-icon.png?raw=true">
+  <img align="center" alt="RestAssured" height="25" width="34" src="https://github.com/paulorochacode/icons/blob/main/rest-assured-icon.png?raw=true"><a> </a>
   <img align="center" alt="Postman" height="25" width="35" src="https://dashboard.snapcraft.io/site_media/appmedia/2018/11/logo-mark.png">
   <img align="center" alt="Cucumber" height="30" width="41" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg">
   <img align="center" alt="Selenium" height="27" width="36" src="https://raw.githubusercontent.com/paulorochacode/icons/main/selenium-icon.png?token=GHSAT0AAAAAABWEIDHE3GXCD2VR6INJC3MUYWBHNJQ">
