@@ -34,12 +34,11 @@
   <img align="center" alt="GoogleCloud" height="30" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
   <br><br>
   
-  <img align="center" alt="RestAssured" height="25" width="34" src="https://github.com/paulorochacode/icons/blob/main/rest-assured-icon.png?raw=true">
-  <a>   </a>
   <img align="center" alt="Postman" height="25" width="35" src="https://dashboard.snapcraft.io/site_media/appmedia/2018/11/logo-mark.png">
   <img align="center" alt="Cucumber" height="30" width="41" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg">
   <img align="center" alt="Selenium" height="27" width="36" src="https://raw.githubusercontent.com/paulorochacode/icons/main/selenium-icon.png?token=GHSAT0AAAAAABWEIDHE3GXCD2VR6INJC3MUYWBHNJQ">
   <img align="center" alt="Jira" height="28" width="32" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png">
+  <img align="center" alt="RestAssured" height="25" width="34" src="https://github.com/paulorochacode/icons/blob/main/rest-assured-icon.png?raw=true">
 </div><hr>
   <div>
   <a href="mailto:paulorochacode@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
