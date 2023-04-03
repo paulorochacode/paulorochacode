@@ -1,7 +1,7 @@
 <div align="center"><h2>Hello, I'm Paulo, Quality assurence.</br> First commit: 21/09/2020, first line of code (fanuc CNC) 2015.<h2></div>
 <div align="center">
   <a href="https://github.com/paulorochacode">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulorochacode&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulorochacode&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulorochacode&layout=compact&langs_count=7&theme=white"/>
 </div><hr>
 <div style="background: white">
