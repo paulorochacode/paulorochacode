@@ -1,5 +1,4 @@
 <div align="center"><h2>Hello, I'm Paulo, Quality assurence.</br> First commit: 21/09/2020, first line of code (fanuc CNC) 2015.<h2></div>
-<div align="center"><h2>"Just tell me what you need".<h2></div>  
 <div align="center">
   <a href="https://github.com/paulorochacode">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulorochacode&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
@@ -44,6 +43,13 @@
   <a href="mailto:paulorochacode@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/paulo-ricardo-rocha-000aa9177/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div></br>
+  <div>
+  Contribuitions
+    <img align="center" alt="Postman" height="25" width="35" src="https://github.com/paulorochacode/readme-files/blob/main/contribution-blue.png?raw=true">
+  <a PIX : paulorochacode@outlook.com></br>
+  <a Paypal : paulorochacode@outlook.com></br>
+  </div>
+  
   <div align="center">
     <img align="center" alt="2022" height="246" width="905" src="https://github.com/paulorochacode/imgsCommitsProfile/blob/main/GithubContributions2022.png?raw=true"></br>
     <img align="center" alt="2022" height="246" width="905" src="https://github.com/paulorochacode/imgsCommitsProfile/blob/main/GithubContributions2021.png?raw=true"></br>
