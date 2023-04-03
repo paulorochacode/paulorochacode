@@ -43,12 +43,12 @@
   <a href="mailto:paulorochacode@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/paulo-ricardo-rocha-000aa9177/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div></br>
-  <div>
-  Contribuitions
-    <img align="center" alt="Postman" height="25" width="35" src="https://github.com/paulorochacode/readme-files/blob/main/contribution-blue.png?raw=true">
-    <a> PIX : paulorochacode@outlook.com <a/></br>
-    <a> Paypal : paulorochacode@outlook.com <a/></br>
-  </div>
+  #<div>
+  #Contribuitions
+  #  <img align="center" alt="Postman" height="25" width="35" src="https://github.com/paulorochacode/readme-files/blob/main/contribution-blue.png?raw=true">
+  #  <a> PIX : paulorochacode@outlook.com <a/></br>
+  #  <a> Paypal : paulorochacode@outlook.com <a/></br>
+  #</div>
   
   <div align="center">
     <img align="center" alt="2022" height="246" width="905" src="https://github.com/paulorochacode/imgsCommitsProfile/blob/main/GithubContributions2022.png?raw=true"></br>
