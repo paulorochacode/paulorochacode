@@ -48,8 +48,8 @@
   <a href="https://www.linkedin.com/in/paulo-ricardo-rocha-000aa9177/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div></br>
   <div>
-  Contribuitions
-    <img align="center" alt="Postman" height="25" width="35" src="https://github.com/paulorochacode/readme-files/blob/main/contribution-blue.png?raw=true">
+  <h2>Contribuitions</br></h2>
+    <img align="center" alt="Postman" height="100" width="40" src="https://github.com/paulorochacode/readme-files/blob/main/contribution-blue.png?raw=true"></br>
     <a> PIX : paulorochacode@outlook.com <a/></br>
     <a> Paypal : paulorochacode@outlook.com <a/></br>
   </div>
