@@ -2,7 +2,7 @@
 <div align="center">
   <a href="https://github.com/paulorochacode">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulorochacode&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulorochacode&layout=compact&langs_count=7&theme=white"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulorochacode&layout=compact&langs_count=7&theme=white&include_all_commits=true&count_private=true"/>
 </div><hr>
 <div style="background: white">
 <div id="divIcons"style="display: inline_block" align="center">
