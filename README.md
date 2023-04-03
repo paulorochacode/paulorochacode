@@ -49,8 +49,8 @@
 </div></br>
   <div>
   <h2>Contribuitions</br></h2>
-    <img align="center" alt="Postman" height="100" width="40" src="https://github.com/paulorochacode/readme-files/blob/main/contribution-blue.png?raw=true"></br>
-    <a> PIX : paulorochacode@outlook.com <a/></br>
+    <img align="center" alt="Postman" height="40" width="100" src="https://github.com/paulorochacode/readme-files/blob/main/contribution-blue.png?raw=true"></br>
+    <a> PIX    : paulorochacode@outlook.com <a/></br>
     <a> Paypal : paulorochacode@outlook.com <a/></br>
   </div>
   
