@@ -1,4 +1,4 @@
-<div align="center"><h2>Hello, I'm Paulo, Quality assurence.</br> First commit: 21/09/2020, first line of code (fanuc CNC) 2015.<h2></div>
+<div align="center"><h2>Hello, I'm Paulo, Programmer.</br> First commit: 21/09/2020, first line of code (fanuc CNC) 2015.<h2></div>
 
 <!--
 <div align="center">
